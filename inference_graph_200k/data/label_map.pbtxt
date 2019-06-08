@@ -1,0 +1,74 @@
+item {
+  id: 1
+  name: 'do_not_enter'
+}
+
+item {
+  id: 2
+  name: 'handicap_parking'
+}
+
+item {
+  id: 3
+  name: 'left_turn_only_arrow'
+}
+
+item {
+  id: 4
+  name: 'left_turn_only_words'
+}
+
+item {
+  id: 5
+  name: 'P_parking'
+}
+
+item {
+  id: 6
+  name: 'pedestrian_xing'
+}
+
+item {
+  id: 7
+  name: 'right_turn_only_arrow'
+}
+
+item {
+  id: 8
+  name: 'right_turn_only_words'
+}
+
+item {
+  id: 9
+  name: 'speed_limit_5'
+}
+
+item {
+  id: 10
+  name: 'speed_limit_10'
+}
+
+item {
+  id: 11
+  name: 'speed_limit_15'
+}
+
+item {
+  id: 12
+  name: 'speed_limit_20'
+}
+
+item {
+  id: 13
+  name: 'speed_limit_25'
+}
+
+item {
+  id: 14
+  name: 'stop_sign'
+}
+
+item {
+  id: 15
+  name: 'railroad_xing'
+}
